@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="SpringXMLtoHTML:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="SpringXMLtoHTML.war">
+      <element id="artifact" artifact-name="SpringXMLtoHTML:war exploded" />
+    </root>
+  </artifact>
+</component>

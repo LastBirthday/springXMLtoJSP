@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<customers>
+
+    <customer>
+        <id>123123</id>
+        <name>Dmitriy Medvedev</name>
+        <orders>
+            <order>
+                <id>323312</id>
+                <position>
+                    <id>12</id>
+                    <price>30.0</price>
+                    <count>5</count>
+                </position>
+            </order>
+        </orders>
+    </customer>
+
+    <customer>
+        <id>321134</id>
+        <name>Kirill Kirillov</name>
+        <orders>
+            <order>
+                <id>234</id>
+                <position>
+                    <id>345</id>
+                    <price>23.5</price>
+                    <count>3</count>
+                </position>
+            </order>
+            <order>
+                <id>54</id>
+                <position>
+                    <id>42</id>
+                    <price>432.0</price>
+                    <count>10</count>
+                </position>
+            </order>
+        </orders>
+    </customer>
+
+</customers>

@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<customers>
+
+    <customer>
+        <id>123123</id>
+        <name>Dmitriy Medvedev</name>
+        <orders>
+            <order>
+                <id>323312</id>
+                <position>
+                    <id>12</id>
+                    <price>30.0</price>
+                    <count>5</count>
+                </position>
+            </order>
+        </orders>
+    </customer>
+
+    <customer>
+        <id>321134</id>
+        <name>Kirill Kirillov</name>
+        <orders>
+            <order>
+                <id>234</id>
+                <position>
+                    <id>345</id>
+                    <price>23.5</price>
+                    <count>3</count>
+                </position>
+            </order>
+            <order>
+                <id>54</id>
+                <position>
+                    <id>42</id>
+                    <price>432.0</price>
+                    <count>10</count>
+                </position>
+            </order>
+        </orders>
+    </customer>
+
+    <customer>
+        <id>86245</id>
+        <name>Semen Klimov</name>
+        <orders>
+            <order>
+                <id>68245</id>
+                <position>
+                    <id>58</id>
+                    <price>10.0</price>
+                    <count>9</count>
+                </position>
+            </order>
+            <order>
+                <id>96254</id>
+                <position>
+                    <id>68</id>
+                    <price>80.0</price>
+                    <count>11</count>
+                </position>
+            </order>
+            <order>
+                <id>895354</id>
+                <position>
+                    <id>62</id>
+                    <price>41.0</price>
+                    <count>3</count>
+                </position>
+            </order>
+        </orders>
+    </customer>
+
+    <customer>
+        <id>36824</id>
+        <name>Ekaterina Petrova</name>
+        <orders>
+            <order>
+                <id>8452</id>
+                <position>
+                    <id>45</id>
+                    <price>95.0</price>
+                    <count>3</count>
+                </position>
+            </order>
+        </orders>
+    </customer>
+
+    <customer>
+        <id>56236</id>
+        <name>Nikolay Petrenko</name>
+        <orders>
+            <order>
+                <id>62564</id>
+                <position>
+                    <id>56</id>
+                    <price>1512.0</price>
+                    <count>1</count>
+                </position>
+            </order>
+        </orders>
+    </customer>
+
+    <customer>
+        <id>15465</id>
+        <name>Denis Kotov</name>
+        <orders>
+            <order>
+                <id>15655</id>
+                <position>
+                    <id>48</id>
+                    <price>426.0</price>
+                    <count>3</count>
+                </position>
+            </order>
+            <order>
+                <id>56256</id>
+                <position>
+                    <id>26</id>
+                    <price>563.0</price>
+                    <count>1</count>
+                </position>
+            </order>
+            <order>
+                <id>56896</id>
+                <position>
+                    <id>89</id>
+                    <price>13.0</price>
+                    <count>110</count>
+                </position>
+            </order>
+            <order>
+                <id>26555</id>
+                <position>
+                    <id>59</id>
+                    <price>77.0</price>
+                    <count>1</count>
+                </position>
+            </order>
+            <order>
+                <id>1532</id>
+                <position>
+                    <id>56</id>
+                    <price>23.0</price>
+                    <count>56</count>
+                </position>
+            </order>
+        </orders>
+    </customer>
+
+    <customer>
+        <id>5652</id>
+        <name>Aleksandr Lust</name>
+        <orders>
+            <order>
+                <id>56264</id>
+                <position>
+                    <id>19</id>
+                    <price>56.0</price>
+                    <count>1</count>
+                </position>
+            </order>
+            <order>
+                <id>56321</id>
+                <position>
+                    <id>56</id>
+                    <price>41.0</price>
+                    <count>3</count>
+                </position>
+            </order>
+        </orders>
+    </customer>
+
+    <customer>
+        <id>565235</id>
+        <name>Petr Krasnov</name>
+        <orders>
+            <order>
+                <id>95645</id>
+                <position>
+                    <id>578</id>
+                    <price>45.0</price>
+                    <count>2</count>
+                </position>
+            </order>
+        </orders>
+    </customer>
+
+    <customer>
+        <id>123123</id>
+        <name>Sofiya Esenkovs</name>
+        <orders>
+            <order>
+                <id>65321</id>
+                <position>
+                    <id>65</id>
+                    <price>1465.0</price>
+                    <count>1</count>
+                </position>
+            </order>
+        </orders>
+    </customer>
+
+    <customer>
+        <id>565623</id>
+        <name>Aleksandra Ugrumova</name>
+        <orders>
+            <order>
+                <id>562315</id>
+                <position>
+                    <id>69</id>
+                    <price>235.0</price>
+                    <count>3</count>
+                </position>
+            </order>
+        </orders>
+    </customer>
+
+</customers>

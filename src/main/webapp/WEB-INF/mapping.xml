@@ -1,0 +1,53 @@
+<mapping>
+    <class name="com.springapp.mvc.model.Customers">
+        <map-to xml="customers" />
+
+        <field name="customer" type="com.springapp.mvc.model.Customer" collection="vector">
+            <bind-xml name="customer" />
+        </field>
+    </class>
+
+    <class name="com.springapp.mvc.model.Customer">
+        <field name="id" type="integer">
+            <bind-xml name="id" node="element" />
+        </field>
+
+        <field name="name" type="string">
+            <bind-xml name="name" node="element" />
+        </field>
+
+        <field name="orders" type="com.springapp.mvc.model.Orders">
+            <bind-xml name="orders" node="element" />
+        </field>
+    </class>
+
+    <class name="com.springapp.mvc.model.Orders">
+        <field name="order" type="com.springapp.mvc.model.Order" collection="vector">
+            <bind-xml name="order" />
+        </field>
+    </class>
+
+    <class name="com.springapp.mvc.model.Order">
+        <field name="id" type="integer">
+            <bind-xml name="id" node="element" />
+        </field>
+
+        <field name="position" type="com.springapp.mvc.model.Position">
+            <bind-xml name="position" />
+        </field>
+    </class>
+
+    <class name="com.springapp.mvc.model.Position">
+        <field name="id" type="integer">
+            <bind-xml name="id" node="element" />
+        </field>
+
+        <field name="price" type="double">
+            <bind-xml name="price" node="element" />
+        </field>
+
+        <field name="count" type="integer">
+            <bind-xml name="count" node="element" />
+        </field>
+    </class>
+</mapping>
